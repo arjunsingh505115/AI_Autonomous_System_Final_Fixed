@@ -1,3 +1,6 @@
+flask
+openai
+requests
 numpy
 pandas
 tensorflow
